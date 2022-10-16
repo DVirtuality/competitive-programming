@@ -1,5 +1,5 @@
 # competitive-programming
-stuff related to CP 
+
 Plugins needed for everything used in vimrc 
 * SirVer/ultisnips 
 * dense-analysis/ale
